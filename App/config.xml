@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.westfield.sandown"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>The Westfield B&amp;B Sandown</name>
+
+    <description>
+The Westfield B&amp;B Sandown Isle of Wight is a 12 bed Victorian Bed &amp; Breakfast / Guest Accomodation. The Westfield is within easy reach of the beach, Sandown amenities and local transport, we can collect guests from Sandown train station if enough notice is given. 
+
+The Westfield is a family run Bed &amp; Breakfast, we have car parking with CCTV and a brand new fire alarm system. 
+
+We have a comfortable residents lounge where hot drinks are available thoughout the day, there are books and magazines, as well as games and a 42" TV with Wii. 
+
+The Westfield has a modern Breakfast Room overlooking the patio garden. Breakfast is served between 8am and 9.30am, we have a wide choice for breakfast and we use fresh and local ingredients where ever possible. All our food is freshly cooked to order. Breakfast is included in the price. 
+
+The Westfield has a well-stocked bar, open in busy periods. There is also a Pool Table and Dart Board. The Westfield has a Patio area where guests can relax and have a drink and a front lawned area/beer garden with picnic benches. 
+
+All of our 12 rooms have ensuite shower rooms. They have central heating and duvets. All rooms have large freeview t.v.'s and ceiling fans, alarm clock radios, hairdryers and tea and coffee facilities, refrigerators, Bath sheets and Duck Island Toiletries. We can on request provide blankets, hot water bottles, iron &amp; ironing board and emergency toiletries. 
+
+Steeped in history with 60 miles of stunning unspoilt scenery and a wealth of attractions, the Isle of Wight has something for everyone. From historic sites to natural delights, music festivals and major national events, it is a unique holiday destination. 
+    </description>
+
+    <author href="http://BroadwaySoftwareLtd.co.uk" email="support@BroadwaySoftwareLtd.co.uk">
+        Broadway Software Ltd
+    </author>
+
+<icon src="icon.png"></icon>
+
+<preference name="orientation" value="portrait" />
+<preference name="fullscreen" value="true" />
+
+</widget>
